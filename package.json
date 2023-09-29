@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@babel/preset-react": "^7.22.15",
+    "eslint": "^8.50.0",
+    "eslint-plugin-react": "^7.33.2",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.6",
+    "immer": "^10.0.2",
+    "react-redux": "^8.1.2",
+    "redux": "^4.2.1",
+    "redux-thunk": "^2.4.2",
+    "reselect": "^4.1.8",
+    "store": "^2.0.12",
+    "uuidv4": "^6.2.13"
+  }
+}
