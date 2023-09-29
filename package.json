@@ -1,8 +1,10 @@
 {
   "devDependencies": {
     "@babel/preset-react": "^7.22.15",
+    "@types/node": "^20.7.2",
     "eslint": "^8.50.0",
     "eslint-plugin-react": "^7.33.2",
+    "ts-helpers": "^1.1.2",
     "typescript": "^5.2.2"
   },
   "dependencies": {
